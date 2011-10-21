@@ -11,7 +11,7 @@
 Plugin Name: Octeth Email Marketing
 Plugin URI: http://octeth.com/oempro
 Description: With this plug-in, blog owner will be able to "link" his Oempro account with WordPress and start accepting email list subscriptions on his blog.
-Version: 0.1
+Version: 0.2
 Author: Octeth
 Author URI: http://octeth.com/oempro
 Help URI: http://octeth.com/oempro
@@ -24,7 +24,7 @@ License: MIT License
     2. Custom fields: checkboxes submission
 */
 
-define('OEMPRO_SUBSCRIBE', '0.1');
+define('OEMPRO_SUBSCRIBE', '0.2');
 define('OEMPRO_PLUGIN_NAME', 'Oempro Subscribe');
 define('OP_SUBSCRIBE_ACTION', WP_PLUGIN_URL . '/oempro/dispatch.php');
 
