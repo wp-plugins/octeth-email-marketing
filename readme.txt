@@ -5,6 +5,8 @@ Requires at least: 3.0
 Tested up to: 3.2.1
 Stable tag: 0.2
 
+With this plug-in, blog owner will be able to "link" his Oempro account with WordPress and start accepting email list subscriptions.
+
 == Description ==
 
 This WordPress plug-in will let you to publish mail list subscription (and unsubscription) forms on your WordPress powered websites and link these forms with the leading email marketing software, Oempro.
